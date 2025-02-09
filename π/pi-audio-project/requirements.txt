@@ -1,0 +1,4 @@
+text-to-speech
+numpy
+gtts
+pydub
